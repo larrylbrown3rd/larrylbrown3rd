@@ -1,4 +1,4 @@
-<h1>Hi, I'm Larry! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Ecommerce</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Digital Marketing</a></h1>
+<h1>Hi, I'm Larry! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/larrylbrown3rd/">Ecommerce</a>, <a href="https://www.linkedin.com/in/larrylbrown3rd/">Digital Marketing</a></h1>
 
 <h2> 🤳 Connect with me:</h2>
 
